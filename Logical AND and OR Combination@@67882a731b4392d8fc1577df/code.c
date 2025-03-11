@@ -8,8 +8,9 @@ int main()
        
         printf("True");
     }
-    else if(x==0 || y==0)
-        printf("True");
+    else if(x==0 || y==0){
+         printf("True");
+    }
     else    
         printf("False");
         return 0;
