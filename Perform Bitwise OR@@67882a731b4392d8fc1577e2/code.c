@@ -4,7 +4,6 @@
 int main() {
     int x,y;
     scanf("%d %d", &x, &y);
-    printf("Result of %d | %d = %d\n",x,y);
-
-    return 0;
+    printf("%d|%d=%d",x|y);
+      return 0;
 }
