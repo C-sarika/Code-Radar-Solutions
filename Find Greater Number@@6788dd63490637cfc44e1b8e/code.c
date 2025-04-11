@@ -8,5 +8,5 @@ int main()
         printf("%d %d",y,x);
     }
     else
-    printf("%d",y);
+    printf("%d",x);
 }
